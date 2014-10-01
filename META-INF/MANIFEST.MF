@@ -1,0 +1,5 @@
+Manifest-Version: 1.0
+Class-Path: json-20140107.jar; jsoup-1.7.3.jar; poi-3.11-beta2-2014082
+ 2.jar
+Main-Class: mainapi
+
